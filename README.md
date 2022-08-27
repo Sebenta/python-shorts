@@ -44,12 +44,6 @@ For that, just:
 pip install -r requirements.txt
 ```
 
-to execute:
-
-```py
-python main.py
-```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [python.org]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white
